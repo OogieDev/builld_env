@@ -1,3 +1,44 @@
+@font-face {
+    font-family: "mOpenSansBold";
+    src: url("../fonts/OpenSansBold/OpenSans-Bold.eot?") format("eot"),
+		 url("../fonts/OpenSansBold/OpenSans-Bold.woff2") format("woff2"),
+		 url("../fonts/OpenSansBold/OpenSans-Bold.woff") format("woff"),
+		 url("../fonts/OpenSansBold/OpenSans-Bold.ttf") format("truetype"),
+		 url("../fonts/OpenSansBold/OpenSans-Bold.svg#Samplino") format("svg");
+}
+@font-face {
+    font-family: "mOpenSansRegular";
+    src: url("../fonts/OpenSansRegular/OpenSans-Regular.eot?") format("eot"),
+		 url("../fonts/OpenSansRegular/OpenSans-Regular.woff2") format("woff2"),
+		 url("../fonts/OpenSansRegular/OpenSans-Regular.woff") format("woff"),
+		 url("../fonts/OpenSansRegular/OpenSans-Regular.ttf") format("truetype"),
+		 url("../fonts/OpenSansRegular/OpenSans-Regular.svg#Samplino") format("svg");
+}
+@font-face {
+    font-family: "mRobotoBold";
+    src: url("../fonts/RobotoBold/Roboto-Bold.eot?") format("eot"),
+		 url("../fonts/RobotoBold/Roboto-Bold.woff2") format("woff2"),
+		 url("../fonts/RobotoBold/Roboto-Bold.woff") format("woff"),
+		 url("../fonts/RobotoBold/Roboto-Bold.ttf") format("truetype"),
+		 url("../fonts/RobotoBold/Roboto-Bold.svg#Samplino") format("svg");
+}
+@font-face {
+    font-family: "mRobotoRegular";
+    src: url("../fonts/RobotoRegular/Roboto-Regular.eot?") format("eot"),
+		 url("../fonts/RobotoRegular/Roboto-Regular.woff2") format("woff2"),
+		 url("../fonts/RobotoRegular/Roboto-Regular.woff") format("woff"),
+		 url("../fonts/RobotoRegular/Roboto-Regular.ttf") format("truetype"),
+		 url("../fonts/RobotoRegular/Roboto-Regular.svg#Samplino") format("svg");
+}
+@font-face {
+    font-family: "mRobotoMedium";
+    src: url("../fonts/RobotoMedium/Roboto-Medium.eot?") format("eot"),
+		 url("../fonts/RobotoMedium/Roboto-Medium.woff2") format("woff2"),
+		 url("../fonts/RobotoMedium/Roboto-Medium.woff") format("woff"),
+		 url("../fonts/RobotoMedium/Roboto-Medium.ttf") format("truetype"),
+		 url("../fonts/RobotoMedium/Roboto-Medium.svg#Samplino") format("svg");
+}
+
 body {
   background: #fcfcfc;
 }
